@@ -1,5 +1,19 @@
 # Ethical-Hacking-Web-Based-Attacks
+![Screenshot (2551)](https://user-images.githubusercontent.com/79586394/175291596-de17665f-8c8f-448c-9024-e2afbd020e0b.png)
+![Screenshot (2552)](https://user-images.githubusercontent.com/79586394/175291604-c2cf409c-b2aa-4bb5-92eb-435bb11ad2a7.png)
+![Screenshot (2553)](https://user-images.githubusercontent.com/79586394/175291607-a62e0ca8-d4c8-4ba7-9ac7-cba7c0a19108.png)
+![Screenshot (2554)](https://user-images.githubusercontent.com/79586394/175291610-ce4d1bf8-c589-4afb-9731-a6732c9b6c79.png)
+![Screenshot (2559)](https://user-images.githubusercontent.com/79586394/175291613-16a85fc0-2d54-4894-ab8c-60fe0e766add.png)
+![Screenshot (2560)](https://user-images.githubusercontent.com/79586394/175291616-d14980b0-6159-4af4-974e-56e51196f71f.png)
+![Screenshot (2568)](https://user-images.githubusercontent.com/79586394/175291619-6ce33d18-25e3-446c-bcde-a3da3280c9e3.png)
+![Screenshot (2569)](https://user-images.githubusercontent.com/79586394/175291622-f29dcde9-5844-412c-936e-5aecc151b2b5.png)
+![Screenshot (2570)](https://user-images.githubusercontent.com/79586394/175291623-1cddf0aa-b6bf-43ee-af7d-0b916b8c962f.png)
+![Screenshot (2571)](https://user-images.githubusercontent.com/79586394/175291625-f53033b2-391d-4a78-9cde-3f0cd17ca175.png)
+![Screenshot (2572)](https://user-images.githubusercontent.com/79586394/175291629-27c7a9d0-6e93-4c2d-9c3e-c4762d82cb33.png)
+![Screenshot (2573)](https://user-images.githubusercontent.com/79586394/175291631-43742f2f-702f-4c42-a137-f84eaf100631.png)
+![Screenshot (2574)](https://user-images.githubusercontent.com/79586394/175291633-276e8916-3a96-402b-99b8-27a8bb5983ce.png)
+![Screenshot (2608)](https://user-images.githubusercontent.com/79586394/175291634-d997de84-4c54-4717-b1c9-4d65a8660c70.png)
+![Screenshot (2609)](https://user-images.githubusercontent.com/79586394/175291639-ea44a847-2a88-4da7-baa3-7b5ddd666979.png)
+![Screenshot (2614)](https://user-images.githubusercontent.com/79586394/175291646-5c3bc07b-2c9c-4269-948f-6840692c00c6.png)
+![Screenshot (2615)](https://user-images.githubusercontent.com/79586394/175291647-a09ca15c-17a2-47f1-b46a-d8c67e766787.png)
 
-<div align="center">
-    <img src="/screenshots/screen1.jpg" width="400px"</img> 
-</div>
