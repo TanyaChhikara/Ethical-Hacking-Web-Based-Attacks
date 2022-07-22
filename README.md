@@ -1,5 +1,5 @@
 [Hacking_Environment_Web_Application_updated.pptx](https://github.com/TanyaChhikara/Ethical-Hacking-Web-Based-Attacks/files/8966891/Hacking_Environment_Web_Application_updated.pptx)
-# Ethical-Hacking-Web-Based-Attacks
+# Ethical Hacking Web Based Attacks Outputs
 ![Screenshot (2551)](https://user-images.githubusercontent.com/79586394/175291596-de17665f-8c8f-448c-9024-e2afbd020e0b.png)
 ![Screenshot (2552)](https://user-images.githubusercontent.com/79586394/175291604-c2cf409c-b2aa-4bb5-92eb-435bb11ad2a7.png)
 ![Screenshot (2553)](https://user-images.githubusercontent.com/79586394/175291607-a62e0ca8-d4c8-4ba7-9ac7-cba7c0a19108.png)
